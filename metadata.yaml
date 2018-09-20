@@ -1,0 +1,36 @@
+_repo: Hesiodi-Carmina_53315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hesiod
+    gutenberg_agent_id: '191'
+    url: http://www.gutenberg.org/2009/agents/191
+    wikipedia: http://en.wikipedia.org/wiki/Hesiod
+  editor:
+    agent_name: Firmin-Didot, Ambroise
+    alias: Didot, Ambroise Firmin
+    birthdate: 1790
+    deathdate: 1876
+    gutenberg_agent_id: '47003'
+    url: http://www.gutenberg.org/2009/agents/47003
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53315'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heracles (Greek mythological character) -- Poetry'
+- !lcsh 'Agriculture -- Greece -- Poetry'
+- !lcsh 'Didactic poetry, Greek -- Translations into Latin'
+- !lcc 'PA'
+- !lcsh 'Gods, Greek -- Poetry'
+- !lcsh 'Hesiod -- Translations into Latin'
+- !lcsh 'Religious poetry, Greek -- Translations into Latin'
+- GITenberg
+tableOfContents: Theogonia -- Scutum Herculis -- Opera et Dies.
+title: Hesiodi Carmina
+url: http://www.gutenberg.org/ebooks/53315
